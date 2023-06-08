@@ -148,6 +148,16 @@ cursor: pointer;
 .mobile_item_image{
     display: none;
 }
+.reference{
+    text-align:center ;
+    font-size: 10px;
+    color:  black;
+    margin-top: auto;
+
+}
+.reference a{
+    color:  hsl(5, 85%, 63%);
+}
 @media only screen and (max-width: 720px){
     .nav_items_list{
        display: none;
