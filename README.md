@@ -4,7 +4,7 @@ This is a news homepage/landing page. A project replication from www.frontendmen
 
 I recreated this project to hone my javascript and responsiveness skills. This project was completed entirely in HTML, CSS, and JAVASCRIPT.
 
-The project's Featurs.
+The project's Features.
 
 1. Responsiveness: The page is responsive on whatever device that you view it on. From smartphones to tablets to iPads.
 2. When a user clicks on a certain tab, the Nav bar displays active stats.
